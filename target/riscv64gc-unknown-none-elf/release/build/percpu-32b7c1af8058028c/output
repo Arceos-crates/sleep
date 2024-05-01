@@ -1,0 +1,2 @@
+cargo:rustc-link-arg-tests=-no-pie
+cargo:rustc-link-arg-tests=-T/home/xsp/.cargo/git/checkouts/percpu-fc13f10e268badf1/7a1bb43/test_percpu.x
